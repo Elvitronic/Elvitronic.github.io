@@ -4,6 +4,7 @@
 
 ## Theo
 - ~~ Orangen-SVG-Logo einfügen~~
+- GITHUB einführen
 - max todo liste erweitern
 - eigenes CSS anlegen
 - andere Schriftart
@@ -27,3 +28,4 @@ orange by Nociconist from the Noun Project
 
 # Referenz
 Bootstrap referenz: https://getbootstrap.com/docs/4.4/getting-started/introduction/
+Github Intro: https://help.github.com/en/github
