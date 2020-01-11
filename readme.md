@@ -27,3 +27,10 @@ orange by Nociconist from the Noun Project
 
 # Referenz
 Bootstrap referenz: https://getbootstrap.com/docs/4.4/getting-started/introduction/
+
+So funktioniert Github
+- Browserfenster für die aktuelle Website öffnen: https://Elvitronic.github.io
+- unter 'Code' die Seite aussuchen, die editiert werden soll.
+- mit dem Bleistift-Button den Texteditor starten
+- wenn fertig, 'commit changes' um zu speichern.
+- danach im Browser Seite refreshen, um Änderungen zu sehen.
