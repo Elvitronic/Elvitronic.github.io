@@ -9,18 +9,13 @@
   -https://www.welt.de/gesundheit/article159111440/Orangen-gesund-oder-nicht-Mythen-und-Wahrheiten.html#cs-lazy-picture-placeholder-01c4eedaca.png unter diesem link findest du einpaar fakten,such dir drei aus und übersetze sie ins englische,setze sie dann ein
    - WICHTIG!! anstellen an denn du text einfügen sollst wurdest du mit"@baseshifter"getagt und nicht vergessen die wpsite ist auf englisch
 
-
 ## Theo
-- ~~ Orangen-SVG-Logo einfügen~~
+~~ - Orangen-SVG-Logo einfügen~~
 - max todo liste erweitern
 - eigenes CSS anlegen
 - andere Schriftart
-- ~~ feste ordnerstruktur für alle seiten ~~
-- ~~ Impressum ~~
-
-
-## Mäx
-- Mehr lernen über bootstrap: Wie funktioniert das überschreiben des CSS?
+~~ - feste ordnerstruktur für alle seiten ~~
+~~ - Impressum ~~
 
 # To remember
 ## Über die Struktur des Projekts
