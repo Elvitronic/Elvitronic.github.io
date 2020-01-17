@@ -24,7 +24,7 @@ Inhalte einfügen
 orange by Nociconist from the Noun Project
 
 # Stretch Goals
-- [ ] Logo designen!
+- [x] Logo designen!
 - [x] alles auf Github hosten
 - [x] lokalen Server ausprobieren
 
